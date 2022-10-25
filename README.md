@@ -1,4 +1,1 @@
-# contests 
-а
-а
-а
+# contests
