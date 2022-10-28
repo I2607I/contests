@@ -1,3 +1,2 @@
 # contests
 а
-а
